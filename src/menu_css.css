@@ -1,0 +1,260 @@
+
+
+
+
+#fad {
+  background-size: 100%;
+  right:0;
+  bottom: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+
+
+}
+
+#fad h1{
+color: white;
+
+}
+
+.h1_fad{
+    margin-top:0;
+    text-align:center;
+
+}
+
+.general{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
+.city_one{
+
+    background-image: url("../public/img/avtobusnaya_ekskursiya_po_nochnoy_moskve_1.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+
+}
+
+.piter_img{
+    background-image: url("../public/img/66308_original.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.pscov_img{
+     background-image: url("../public/img/63534359.jpg");
+     background-repeat: no-repeat;
+     width: 512px;
+     height:534px;
+     margin-left:32px;
+
+}
+
+.kazan_img{
+     background-image: url("../public/img/3a59c510-57e0-11ee-a5b1-e2b100a0f340.1220x600.jpeg");
+     background-repeat: no-repeat;
+     width: 512px;
+     height:534px;
+     margin-left:32px;
+     margin-top:32px;
+
+}
+
+.yakutsk_img{
+     background-image: url("../public/img/00_yakutsk.jpg");
+     background-repeat: no-repeat;
+     width: 512px;
+     height:534px;
+     margin-left:32px;
+     margin-top:32px;
+
+}
+
+.kaliningrad_img{
+     background-image: url("../public/img/tmb3937-1687297045.jpg");
+     background-repeat: no-repeat;
+     width: 512px;
+     height:534px;
+     margin-left:32px;
+     margin-top:32px;
+
+}
+
+.general_text{
+    display: flex;
+
+}
+
+.first_text{
+   color: white;
+   width: 512px;
+   margin-left:32px;
+
+
+}
+
+.second_text{
+    color: white;
+    width: 512px;
+    margin-left:32px;
+
+}
+
+.third_text{
+    color: white;
+    width: 512px;
+    margin-left:32px;
+
+}
+
+.fourth{
+    color: white;
+    width: 512px;
+    margin-left:32px;
+
+}
+
+.fifth_text{
+    color: white;
+    width: 512px;
+    margin-left:32px;
+}
+
+.sixth_text{
+    color: white;
+    width: 512px;
+    margin-left:32px;
+}
+
+.wrapper{
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#body-sights{
+  background-size: 100%;
+  right:0;
+  bottom: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: brown;
+}
+
+.monoz{
+  margin-top:0;
+  text-align:center;
+}
+
+.ozerro{
+    text-align:center;
+
+}
+
+#body-link{
+  background-size: 100%;
+  right:0;
+  bottom: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: green;
+}
+
+
+.sights_one{
+
+    background-image: url("../public/img/l27.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.alex_park{
+    background-image: url("../public/img/210614.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.mysey_pskov{
+    background-image: url("../public/img/caption.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.kreml_kazan{
+    background-image: url("../public/img/972c66592e784dbd45b7c8200c3c8b49.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.yakutsk_komplex{
+    background-image: url("../public/img/komplex.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.kaliningrad_vorota{
+    background-image: url("../public/img/vorota.jpg");
+    background-repeat: no-repeat;
+    width: 512px;
+    height:534px;
+    margin-left:32px;
+}
+
+.kreml_text{
+    width: 512px;
+    margin-left:32px;
+}
+
+.alex_park_text{
+    width: 512px;
+    margin-left:32px;
+}
+
+.pskov_text{
+    width: 512px;
+    margin-left:32px;
+}
+
+.kazan_text{
+    width: 512px;
+    margin-left:32px;
+}
+
+
+.yakutsk_text{
+     width: 512px;
+     margin-left:32px;
+}
+
+.kaliningrad_text{
+    width: 512px;
+    margin-left:32px;
+}
+
+
+.h1_text{
+    text-align:center;
+}

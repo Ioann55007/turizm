@@ -1,0 +1,45 @@
+.nav{
+text-align: center;
+}
+
+.header li{
+display: inline;
+margin-left: 55px;
+font-weight: bolder;
+color: beige;
+
+}
+
+.city{
+display: inline;
+margin-left: 55px;
+font-weight: bolder;
+color: white;
+text-decoration: none;
+}
+
+.sight{
+display: inline;
+margin-left: 55px;
+font-weight: bolder;
+color: white;
+text-decoration: none;
+}
+
+.info_turizm{
+display: inline;
+margin-left: 55px;
+font-weight: bolder;
+color: white;
+text-decoration: none;
+}
+
+.сhif{
+display: inline;
+margin-left: 55px;
+font-weight: bolder;
+color: white;
+text-decoration: none;
+}
+
+

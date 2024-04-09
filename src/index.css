@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#vid {
+    background-image: url("../public/img/russian-turizm.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
